@@ -7,4 +7,4 @@ spending so that it will help them in tailoring the credit cards to customer nee
 market trends.
 
 # Dashboard Screenshot
-![Image Alt text](/Dashboard-Images/Screenshot (68).png)
+![Image Alt text](/Dashboard-Images/Screenshot%20(68).png)
